@@ -1,0 +1,19 @@
+
+ul{
+    width: 100%;
+}
+
+#bottone-accedi{
+    border-radius: 20px;
+    background-color: rgb(51, 51, 51);
+    border-color: rgb(51, 51, 51);
+}
+
+span > i{
+    font-size: 2em;
+}
+
+#sezione-sony-logo{
+    background-color: black;
+    padding: 10px;
+}
