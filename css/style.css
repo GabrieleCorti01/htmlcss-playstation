@@ -15,5 +15,13 @@ span > i{
 
 #sezione-sony-logo{
     background-color: black;
-    padding: 10px;
+}
+
+#sezione-sony-logo img{
+    height: 20px;
+}
+
+#navbar-menu-collapse{
+    color:grey;
+    border: 1px solid grey;
 }
