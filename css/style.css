@@ -1,4 +1,8 @@
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 ul{
     width: 100%;
 }
@@ -25,3 +29,23 @@ span > i{
     color:grey;
     border: 1px solid grey;
 }
+
+#sezione-returnal{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+#bottone-acquista-returnal{
+    background-color: rgb(255, 94, 0);
+    border-color: rgb(255, 94, 0);
+    border-radius: 20px;
+    color: white;
+}
+
+#immagine-logo-returnal{
+    width: 100%;
+    margin-top: 180px;
+}
+
