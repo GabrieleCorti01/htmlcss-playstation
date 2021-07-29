@@ -24,6 +24,28 @@ ul{
     border-radius: 20px;
 }
 
+.contenitore-titolo-ps4 h2{
+    font-size: 2.2em;
+}
+
+.contenitore-titolo-ps4 p{
+    font-size: 1.2em;
+    color: grey;
+}
+
+.contenitore-playstation4 img{
+    width: 100%;
+}
+
+.contenitore-playstation4 h3{
+    font-size: 2em;
+}
+
+.contenitore-playstation4 p{
+    font-size: 1.2em;
+    color: grey;
+}
+ 
 #contenitore-testo-immagine-play5 span{
     font-size: 0.8em;
     color: rgb(0, 140, 255);
