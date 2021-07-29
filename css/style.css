@@ -126,6 +126,16 @@ span > i{
     width: 100%;
 }
 
+#contenitore-nuove-uscite{
+    background-color: rgb(68, 68, 68);
+    color: white;
+}
+
+#contenitore-nuove-uscite img{
+    width: 100%;
+    border-radius: 20px;
+}
+
 @media screen and (max-width: 776px) {
     
     #immagini-accessori-ps5 span{
