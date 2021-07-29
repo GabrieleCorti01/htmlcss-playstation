@@ -180,8 +180,21 @@ span > i{
     border-radius: 20px;
 }
 
+#contenitore-testo-giochi-ps-sconto h2{
+    font-size: 2.5em;   
+}
+
+#contenitore-testo-giochi-ps-sconto p{
+    font-size: 1.5em;
+    color: grey;
+}
+
 #immagine-ps-plus-giochi{
     height: 100%;
+}
+
+.riga-immagini-sconti-plus img{
+    width: 100%;
 }
 
 @media screen and (max-width: 776px) {
