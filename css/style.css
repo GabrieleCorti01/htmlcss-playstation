@@ -24,25 +24,19 @@ ul{
     border-radius: 20px;
 }
 
-#contenitore-testo-play5 span{
+#contenitore-testo-immagine-play5 span{
     font-size: 0.8em;
     color: rgb(0, 140, 255);
 }
 
-#contenitore-testo-play5 h2{
+#contenitore-testo-immagine-play5 h2{
     font-size: 2.2em;
     color: black;
 }
 
-#contenitore-testo-play5 p{
+#contenitore-testo-immagine-play5 p{
     font-size: 1em;
     color: gray;
-}
-
-#sopratitolo-ps5{
-    color: rgb(0, 140, 255);
-    font-size: 0.7em;
-    margin-bottom: -5px;
 }
 
 #bottone-accedi{
@@ -91,3 +85,36 @@ span > i{
     margin-top: 180px;
 }
 
+#playstation5-immagine{
+    width: 100%;
+}
+
+#immagini-accessori-ps5 img{
+    width: 100%;
+    opacity: 0.5;
+    border-bottom: 2px solid transparent;
+}
+
+#immagini-accessori-ps5 div:hover img{
+    opacity: 1;
+}
+
+#immagini-accessori-ps5 div:hover{
+    border-bottom: 2px solid rgb(0, 140, 255);
+    color: black;
+}
+
+#immagini-accessori-ps5 span{
+    color: rgb(165, 165, 165);
+}
+
+#immagini-accessori-ps5 div:hover span{
+    color: black;
+}
+
+@media screen and (max-width: 776px) {
+    
+    #immagini-accessori-ps5 span{
+        display: none;
+    }
+}
