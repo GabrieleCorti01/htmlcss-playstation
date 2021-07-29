@@ -68,6 +68,9 @@ span > i{
 
 #sezione-returnal{
     background-image: url(../img/jumbo-bg.png);
+}
+
+.container-jumbotron-image{
     background-size: cover;
     background-position: center;
     color: white;
@@ -92,6 +95,9 @@ span > i{
 #immagini-accessori-ps5 img{
     width: 100%;
     opacity: 0.5;
+}
+
+#immagini-accessori-ps5 div{
     border-bottom: 2px solid transparent;
 }
 
@@ -110,6 +116,14 @@ span > i{
 
 #immagini-accessori-ps5 div:hover span{
     color: black;
+}
+
+#sezione-takes-two{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+#immagine-logo-takes-two{
+    width: 100%;
 }
 
 @media screen and (max-width: 776px) {
