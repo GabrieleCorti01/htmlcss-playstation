@@ -158,9 +158,42 @@ span > i{
     border-radius: 20px;
 }
 
+#contenitore-playstation-plus{
+    background-color: rgb(199, 199, 199);
+}
+
+#contenitore-playstation-plus img{
+    width: 70%;
+}
+
+#bottone-esplora-ps-plus{
+    color: rgb(0, 140, 255);
+    background-color: rgb(230, 230, 230);
+    border-color: rgb(230, 230, 230);
+    border-radius: 20px;
+}
+
+#bottone-esplora-ps-plus:hover{
+    color: rgb(230, 230, 230);
+    background-color: rgb(0, 140, 255);
+    border-color: rgb(0, 140, 255);
+    border-radius: 20px;
+}
+
+#immagine-ps-plus-giochi{
+    height: 100%;
+}
+
 @media screen and (max-width: 776px) {
     
     #immagini-accessori-ps5 span{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 776px) {
+
+    #immagine-ps-plus-giochi{
         display: none;
     }
 }
