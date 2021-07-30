@@ -45,6 +45,16 @@ ul{
     font-size: 1.2em;
     color: grey;
 }
+
+.navbar-nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-nav i{
+    text-decoration: none;
+    color: rgb(82, 82, 82);
+}
  
 #contenitore-testo-immagine-play5 span{
     font-size: 0.8em;
